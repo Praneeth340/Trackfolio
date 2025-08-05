@@ -30,7 +30,7 @@ Make sure the backend is running at port 5000 for API calls to work properly.
 
 cd fyndme-frontend
 npm install
-npm start
+npm run dev
 
 
 
