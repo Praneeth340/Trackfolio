@@ -23,4 +23,14 @@ node index.js
 - The main API endpoint is: [http://localhost:5000/api/data](http://localhost:5000/api/data)
 - Note: Accessing `http://localhost:5000/` directly will return a "Cannot GET /" message. This is expected because the server is an API-only backend and does not serve a root route.
 
+💻 Frontend (React)
+Runs at: http://localhost:3000
+
+Make sure the backend is running at port 5000 for API calls to work properly.
+
+cd fyndme-frontend
+npm install
+npm start
+
+
 
